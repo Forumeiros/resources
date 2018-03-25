@@ -1,0 +1,2 @@
+# resources
+:package: Static resources.
