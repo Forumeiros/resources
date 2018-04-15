@@ -2,7 +2,7 @@
  * Post Moderation Messages
  *
  * @author   Luiz Felipe F. <https://lffg.github.io>
- * @version  1.0.1
+ * @version  1.0.3
  */
 
 .mod-action {
@@ -42,10 +42,7 @@
 
 .mod-action h2 + br,
 .mod-action h3 + br,
-.mod-action h4 + br,
-.mod-action h2 + br + br,
-.mod-action h3 + br + br,
-.mod-action h4 + br + br {
+.mod-action h4 + br
   display: none;
 }
 
