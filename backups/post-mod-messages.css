@@ -2,7 +2,7 @@
  * Post Moderation Messages
  *
  * @author   Luiz Felipe F. <https://lffg.github.io>
- * @version  1.0.0
+ * @version  1.0.1
  */
 
 .mod-action {
@@ -47,6 +47,15 @@
 .mod-action h3 + br + br,
 .mod-action h4 + br + br {
   display: none;
+}
+
+.mod-action a {
+  color: inherit;
+  text-decoration: underline;
+}
+
+.mod-action a:hover {
+  color: #eee;
 }
 
 .mod-action.adm,
