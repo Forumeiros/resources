@@ -2,7 +2,7 @@
  * Select Archives Highlight
  *
  * @author   Luiz Felipe F. <https://lffg.github.io>
- * @version  1.0.0
+ * @version  1.0.1
  */
 
 .fa-ajax-panel.fa-ajax-topic-move option[value="f73"],
@@ -13,8 +13,8 @@
 .fa-ajax-panel.fa-ajax-topic-move option[value="f35"],
 .fa-ajax-panel.fa-ajax-topic-move option[value="f55"],
 .fa-ajax-panel.fa-ajax-topic-move option[value="f78"] {
-  background-color: #F5AE42 !important;
-  color: #fff !important;
+  background-color: #F5AE42;
+  color: #fff;
 }
 
 .fa-ajax-panel.fa-ajax-topic-move option[value="f50"] {
