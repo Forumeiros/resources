@@ -2,7 +2,7 @@
  * Post Moderation Messages
  *
  * @author   Luiz Felipe F. <https://lffg.github.io>
- * @version  1.0.4
+ * @version  1.0.5
  */
 
 .mod-action {
@@ -81,4 +81,9 @@
 .mod-action.pub {
   border-color: #00B5D1;
   background-color: #00B5D1;
+}
+
+.mod-action.dev {
+  border-color: #444;
+  background-color: #444;
 }
