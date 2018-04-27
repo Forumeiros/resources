@@ -2,7 +2,7 @@
  * Post Moderation Messages
  *
  * @author   Luiz Felipe F. <https://lffg.github.io>
- * @version  1.0.5
+ * @version  1.1.0
  */
 
 .mod-action {
@@ -15,6 +15,12 @@
   display: block;
 }
 
+.mod-action thead,
+.mod-action tbody {
+  display: block;
+  width: 100%;
+}
+
 .mod-action tbody > tr {
   display: -webkit-box;
   display: -ms-flexbox;
@@ -25,6 +31,11 @@
   -webkit-box-align: center;
   -ms-flex-align: center;
   align-items: center;
+  width: 100%;
+}
+
+.mod-action td {
+  width: 100%;
 }
 
 .mod-action tbody > tr > td.icon {
